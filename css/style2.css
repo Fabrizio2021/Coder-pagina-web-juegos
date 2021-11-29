@@ -1,0 +1,144 @@
+*{
+	margin-top: 0;
+  padding:0;
+}
+@font-face {
+	font-family: squids ;
+	src: url("../assets/fonts/squids.ttf")
+}
+.divTitulo{
+    font-size: 10px;
+	top:5,5px;
+		font-family: squids;
+	background-color:#171e28;
+height: 28px;
+display: flex;
+justify-content: end;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #2f3640;   
+    background-size: cover;
+    background-position: center;  
+    font-family: sans-serif;
+    overflow-x:hidden;
+    
+}
+.logoTipo{	
+    position: relative;
+    
+}
+.imagenesSecundarias{
+    display: flex;
+    
+}
+.encabezadoPrincipal {
+    display: flex;
+    flex-direction:row ;
+     gap: 10px; 
+    text-decoration: none; 
+    list-style-type: none;
+    position: relative;
+	left: 69px;
+  bottom: 45px;
+  
+  
+ 
+
+   
+}
+
+a{
+	text-decoration: none;
+    color: black;
+    
+}
+
+ul{
+	list-style-type: none;
+    
+}
+
+li {
+  background-color:#171e28;
+  float: left;
+  margin-right: 3px;
+  
+ 
+}
+
+.textoPrincipal{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    text-align: center;
+    
+
+}
+.videosPrincipales{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+   
+    
+}
+
+.imagenesSecundarias{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    text-align: center;
+    
+}
+.imgsecundarias{
+    display: flex;
+    align-items: center;
+    
+}
+.achicar{
+     width: 200px; height: 200px;
+      
+}
+.piePagina{
+     font-size: 10px;
+	top:5,5px;
+		font-family: squids;
+	background-color:#171e28;
+    
+    
+
+
+}
+ .achicar2{
+    width: 30px; 
+    height: 30px; 
+   
+    
+}   
+ .noticiasDiv{
+    font-family: squids;
+	background-color: #f4af03;
+     display: flex;
+    justify-content: center; 
+   
+    
+} 
+.recomendado{
+    display: flex;
+    justify-content: center;
+    background-color: #f4af03;
+   
+}
+.numeros{
+    display: flex;
+    justify-content: center;
+    
+}
+.textoPrincipalXbox{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}

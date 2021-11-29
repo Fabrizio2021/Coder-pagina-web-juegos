@@ -1,0 +1,169 @@
+/* *{
+	margin-top: 0;
+  padding:0;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #2f3640;   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    overflow-x:hidden;
+}
+
+
+@font-face {
+	font-family: squids ;
+	src: url("../assets/fonts/squids.ttf")
+}
+.texto1{
+	font-size: 10px;
+	top:5,5px;
+		font-family: squids;
+	background-color:#171e28;
+height: 28px;
+}
+.logo{
+	position: relative;
+		top: 3px;}
+
+.encabezado{
+	text-align: center;
+	position: relative;
+	left: 69px;
+  bottom: 45px;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li {
+  background-color: Gray;
+  float: left;
+  margin-right: 3px;
+ 
+}
+
+
+.texto--principal{
+	position: relative;
+	color: grey;
+	text-align: center;
+	font-family: squids;
+padding: 30px 40px 20px 10px;
+right: 100px;
+}
+
+.texto--secundario{
+	color: grey;
+	text-align: center;
+	font-size: 22px;
+	float: 10px;
+  padding: 10px;
+ margin: 10px;
+ border: 1px solid black;
+	font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+
+.centrar1{
+	text-align: center;
+    
+}
+.imagenes--principales{
+ 
+  float: 10px;
+  padding: 10px 30px 30px 250px;
+ margin: 10px;
+ border: 1px solid black;
+}
+.noticias{
+	font-family: squids;
+	background-color: #f4af03;
+	background-position: center;
+	display: inline-block
+}
+.alinear{
+left: 50px;
+}
+
+.imagenes--secundarias{
+	background-color: #f4af03;
+  width: 200px; 
+  height: 200px;
+}
+
+.pie{
+	background-color:#171e28;
+  font-family: squids;
+
+}
+.ig{
+	overflow: auto;
+	width: 50px;
+	 height: 50px;
+padding left: 1590px:
+}
+.face{
+	width: 50px; 
+	height: 50px;
+	
+}
+.twitter{
+width: 50px; 
+	height: 50px;
+	
+
+} */
+/* .gridContainer{
+    display: grid;
+    gap: 10px;
+    grid-template-areas:
+     "divTitulo"
+     "body"
+     "logoTipo"
+     "imagenesSecundarias"
+     "encabezadoPrincipal"
+     "a"
+     "ul"
+     "li"
+     "textoPrincipal"
+     "videosPrincipales"
+     "imagenesSecundarias"
+     "imgsecundarias"
+     "achicar"
+     "piePagina"
+     "achicar2"
+     "noticiasDiv"
+     "recomendado"
+     "numeros";
+}
+
+@media (min-width: 600px){
+    grid-container{
+        grid-template:
+        " divTitulo divTitulo " 100px
+        "body body" 100px
+        "logoTipo logoTipo" 100px
+        "imagenesSecundarias imagenesSecundarias" 100px
+        "encabezadoPrincipal encabezadoPrincipal" 100px
+        "a a" 100px
+        "ul ul" 100px
+        "li li" 100px
+        "textoPrincipal textoPrincipal" 100px
+        "videosPrincipales videosPrincipales" 100px
+        "imagenesSecundarias imagenesSecundarias"
+        "imgsecundarias imgsecundarias" 100px
+        "achicar achicar" 100px
+        "piePagina piePagina" 100px
+        "achicar2 achicar2" 100px
+        "noticiasDiv noticiasDiv" 100px
+        "recomendado recomendado" 100px
+        "numeros numeros" 100px;
+    }
+} */
