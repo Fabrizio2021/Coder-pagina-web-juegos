@@ -7,11 +7,11 @@
 	src: url("../assets/fonts/squids.ttf")
 }
 .divTitulo{
-    font-size: 10px;
+    font-size: 14px;
 	top:5,5px;
 		font-family: squids;
 	background-color:#171e28;
-height: 28px;
+height: 40px;
 display: flex;
 justify-content: end;
 
